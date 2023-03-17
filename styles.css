@@ -1,0 +1,273 @@
+html {
+    font-family: Helvetica;
+}
+
+h1, h2, h3, p, ul {
+    padding-left: 10%;
+}
+
+header {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+ul li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    margin: 20px;
+    font-size: 18px;
+    color:#000080;
+}
+
+li a:hover {
+    color:rgb(243, 236, 236);
+    background-color: #FE6F5E;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+li a:active {
+    box-shadow: 2px 2px 2px #FDBCB4;
+}
+
+#color {
+    padding-bottom: 40px;
+}
+table.table1 {
+    margin: 20px auto;
+    
+    height: 40%;
+    width: 80%;
+    position: static;
+    overflow-y: scroll;
+    text-align: center;
+}
+
+.table1 th {
+    background-color: rgb(243, 236, 236);
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.table1 td {
+    padding: 15px;
+}
+.table1 tbody a {
+    text-decoration: none;
+    color: white;
+}
+
+#amanranth-purple {
+    background-color: #AB274F;
+    color: white;
+}
+
+#barn-red {
+    background-color: rgb(124, 9, 2);
+    color: white;
+}
+
+#bittersweet {
+    background-color: #FE6F5E;
+    color: white;
+}
+
+#cantaloupe-melon {
+    background-color: #FDBCB4;
+    color: white;
+}
+
+#amber {
+    background-color: #FFBF00;
+    color: white;
+}
+
+#goldenrod {
+    background-color: #DAA520;
+    color: white;
+}
+
+#pumpkin {
+    background-color: #FF7518;
+    color: white;
+}
+
+#baby-blue {
+    background-color: #89CFF0;
+    color: white;
+}
+
+#bleu-de-france {
+    background-color: #318ce7;
+    color: white;
+}
+
+#indigo {
+    background-color: rgb(75, 0, 130);
+    color: white;
+}
+
+
+#typography {
+    padding-bottom: 40px;
+}
+
+table.table2 {
+    margin: 20px auto;
+    
+    height: 40%;
+    width: 80%;
+    position: relative;
+    overflow-y: scroll;
+    text-align: center;
+    background-color: rgb(243, 236, 236);
+}
+.table2 td {
+    padding: 15px;
+    border: 3px solid white;
+}
+.table2 th {
+    padding: 20px;
+    border: 3px solid white;
+}
+
+#regular-400 {
+    font-family: "Ubuntu Mono";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+#regular-400-italic {
+    font-family: "Ubuntu Mono";
+    font-weight: 400;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#bold-700 {
+    font-family: "Ubuntu Mono";
+    font-weight: 700;
+    font-style: normal;
+    font-size: 22px;
+}
+
+#bold-700-italic {
+    font-family: "Ubuntu Mono";
+    font-weight: 700;
+    font-style: italic;
+    font-size: 22px;
+}
+
+#thin-100 {
+    font-family: Lato;
+    font-weight: 100;
+    font-style: thin;
+    font-size: 20px;
+}
+
+#thin-100-italic {
+    font-family: Lato;
+    font-weight: 100;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#normal-400 {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+}
+
+#normal-400-italic {
+    font-family: Lato;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 22px;
+}
+
+#bold-900 {
+    font-family: Lato;
+    font-weight: 900;
+    font-style: bold;
+    font-size: 24px;
+}
+
+#bold-900-italic {
+    font-family: Lato;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 24px;
+}
+
+#zilla-300 {
+    font-family: "Zilla Slab";
+    font-weight: 300;
+    font-style: light;
+    font-size: 20px;
+}
+
+#zilla-300-italic {
+    font-family: "Zilla Slab";
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#zilla-500 {
+    font-family: "Zilla Slab";
+    font-weight: 500;
+    font-style: medium;
+    font-size: 22px;
+}
+
+#zilla-700 {
+    font-family: "Zilla Slab";
+    font-weight: 700;
+    font-style: bold;
+    font-size: 24px;
+}
+
+#zilla-700-italic {
+    font-family: "Zilla Slab";
+    font-weight: 700;
+    font-style: italic;
+    font-size: 24px;
+}
+
+#layout {
+    padding-bottom: 40px;
+    word-spacing: normal;
+}
+
+p {
+    font-size: 18px;
+}
+
+.heading {
+    font-family: Lato;
+}
+
+.heading h1 {
+    font-size: 30px;
+}
+
+.subheading {
+    font-family: "Ubuntu Mono";
+}
+
+.subheading h2 {
+    font-size: 25px;
+}
+
+.paragraph {
+    font-family: "Zilla Slab";
+}
+
+.paragraph h3 {
+    font-size: 20px;
+}
